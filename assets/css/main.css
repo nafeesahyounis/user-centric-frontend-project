@@ -11,14 +11,36 @@
 }
 
 .logo{
-    vertical-align: top;
+    vertical-align:top;
     width:120px;
     height: 60px;
     margin-top: -15px;
-    padding-right: 20px;
     overflow:hidden;
 }
+.jumbotron{
+    background:transparent;
+}
+#landing{
+    background-attachment: fixed;
+    background-image: url("../images/agnes3.jpg");
+    background-position: bottom;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    margin-bottom: 0px;
+    z-index: 1;
+}
+  
 
+.menu{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.landingtext{
+    color:white;
+}
+.portfoliolink{
+    color:white;
+}
 /*.card1{
     border-style:solid;
     background:url("../images/agnes4.jpg");
