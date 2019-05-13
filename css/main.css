@@ -1,12 +1,29 @@
-.call-out{
-    background-image: url("../images/agnes3.jpg"); 
-    height:100vh;
-    width:100vw;
-    
+
+.background{
+    background: #0F0C0C;
+   
 }
 
-.card1{
+.navbar-brand {
+  width:150px;
+  height:40px;
+  font-size: 24px;
+}
+
+.logo{
+    vertical-align: top;
+    width:120px;
+    height: 60px;
+    margin-top: -15px;
+    padding-right: 20px;
+    overflow:hidden;
+}
+
+/*.card1{
     border-style:solid;
+    background:url("../images/agnes4.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
     border-color: black;
     height:100vh;
     width:100vw;
@@ -14,6 +31,10 @@
 .card2{
     border-style:solid;
     border-color: black;
+    background:url("../images/agnes3.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
     height:100vh;
     width:100vw;
 }
+*/
