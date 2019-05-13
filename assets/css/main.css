@@ -3,6 +3,9 @@
     background: #0F0C0C;
    
 }
+.navigation{
+    background-color:transparent;
+}
 
 .navbar-brand {
   width:150px;
@@ -22,7 +25,7 @@
 }
 #landing{
     background-attachment: fixed;
-    background-image: url("../images/agnes3.jpg");
+    background-image: url("../images/agnes6.jpg");
     background-position: bottom;
     background-size: cover;
     height: 100vh;
@@ -37,6 +40,7 @@
 }
 .landingtext{
     color:white;
+    text-align: center
 }
 .portfoliolink{
     color:white;
