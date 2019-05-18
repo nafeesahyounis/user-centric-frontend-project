@@ -25,7 +25,7 @@
 }
 #landing{
     background-attachment: fixed;
-    background-image: url("../images/agnes6.jpg");
+    background-image: url("../images/agnes7.jpg");
     background-position: bottom;
     background-size: cover;
     height: 100vh;
@@ -64,3 +64,21 @@
     width:100vw;
 }
 */
+
+.aboutmeheader{
+    margin-top:100px;
+    text-align: center;
+    color:white;
+}
+
+.portfolioheader{
+    margin-top:100px;
+    text-align: center;
+    color:white;
+}
+
+.contactheader{
+    margin-top:100px;
+    text-align: center;
+    color:white;
+}
