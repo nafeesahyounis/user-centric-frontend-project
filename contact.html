@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Agneslandingpage</title>
+    <title>Contact Form</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,24 +13,40 @@
 </head>
 
 <body class="background">
-   
-        <!--NAVBAR and LOGO, Navbar toggles in mobile view-->
-        <nav class="navbar navbar-expand-md fixed-top navigation">
-            <a class="navbar-brand">
+
+    <!--NAVBAR and LOGO, Navbar toggles in mobile view-->
+    <nav class="navbar navbar-expand-md fixed-top navigation">
+        <a class="navbar-brand">
                 <img class="logo" src="assets/images/logo2.png" alt="icon">
                 </a>
-            <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#collapse_target">
             <span class="navbar-toggler-icon">
             </span>
             </button>
-            <div class="collapse navbar-collapse" id="collapse_target">
-                <ul class="navbar-nav ml-auto menu">
-                    <li class="menu"><a href="../index.html" class="nav-item nav-link active">Home</a></li>
-                    <li class="menu"><a href="../aboutme.html" class="nav-item nav-link active">About Me</a></li>
-                    <li class="menu"><a href="../portfolio.html" class="nav-item nav-link active">Portfolio</a></li>
-                    <li class="menu"><a href="../contact.html" class="nav-item nav-link active">Contact</a></li>
-                </ul>
-            </div>
-        </nav>
-        
-        <h1 class="contactheader">Contact</h1>
+        <div class="collapse navbar-collapse" id="collapse_target">
+            <ul class="navbar-nav ml-auto menu">
+                <li class="menu"><a href="../index.html" class="nav-item nav-link active">Home</a></li>
+                <li class="menu"><a href="../aboutme.html" class="nav-item nav-link active">About Me</a></li>
+                <li class="menu"><a href="../portfolio.html" class="nav-item nav-link active">Portfolio</a></li>
+                <li class="menu"><a href="../contact.html" class="nav-item nav-link active">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="contact-callout">
+        <h1 class="contactheader">GET IN TOUCH</h1>
+        <h2>2019: Open for bookings</h2>
+        <h3>If you are interested in booking me for your photoshoot, show, or event - or you'd just like further information - fill in the form below:</h3>
+    </div>
+    <div class="contact-form">
+        <form>
+            First name:<br>
+            <input type="text" name="firstname"><br> 
+            Last name:<br>
+            <input type="text" name="lastname"><br>
+            Email Address: <br>
+            <input type="email" name="emailaddress"><br>
+            Message:<br>
+            <input type="text" name="message"><br>
+            <button>Send</button>
+            
+    </div>
