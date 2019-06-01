@@ -25,9 +25,9 @@ footer{
     background-color:#525252;
     
 }
-.footer-text{
-    float:right;
-}
+  
+
+
 /*.jumbotron{
     background:transparent;
 }
@@ -78,6 +78,7 @@ footer{
 }
 .landing-quote{
     text-align: center;
+    font-family:'Roboto-Condensed';
     
 }
 .parent-container{
@@ -88,14 +89,23 @@ footer{
     background-size:contain;
     background-repeat:no-repeat;
     height:100vh;
-    width:100vw;
     background-position:50% 50%;
+    overflow:hidden;
 }
 
 .aboutmeheader{
     margin-top:100px;
     text-align: center;
     color:black;
+}
+.aboutmepicture{
+    background:#E3D5DF;
+    height:100vh;
+}
+.profileimage{
+    display:flex;
+    overflow:hidden;
+    background-size:contain;
 }
 
 .portfolioheader{
