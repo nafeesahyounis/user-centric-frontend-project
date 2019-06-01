@@ -1,6 +1,6 @@
 
 .background{
-    background: #0F0C0C;
+    background: white;
    
 }
 .navigation{
@@ -23,17 +23,16 @@
 .jumbotron{
     background:transparent;
 }
-#landing{
+/*#landing{
     background-attachment: fixed;
-    background-image: url("../images/agnes7.jpg");
+    background-image: url("../images/agnes3.jpg");
     background-position: bottom;
     background-size: cover;
     height: 100vh;
     width: 100vw;
     margin-bottom: 0px;
     z-index: 1;
-}
-  
+} */
 
 .menu{
     font-family: 'Roboto Condensed', sans-serif;
@@ -68,17 +67,17 @@
 .aboutmeheader{
     margin-top:100px;
     text-align: center;
-    color:white;
+    color:black;
 }
 
 .portfolioheader{
     margin-top:100px;
     text-align: center;
-    color:white;
+    color:black;
 }
 
 .contactheader{
     margin-top:100px;
     text-align: center;
-    color:white;
+    color:black;
 }
