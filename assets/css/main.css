@@ -47,10 +47,14 @@ footer{
 
 
 .quote-section{
-    background: rgba(219, 246, 247,0.3);
+    background: rgba(226, 201, 168,0.3);
     margin-top:0.65px;
     margin-bottom:0px;
     padding:50px;
+}
+.landingpageaboutme {
+    font-family: 'Sacramento', cursive;
+    
 }
 .landing-quote{
     text-align: center;
@@ -65,7 +69,9 @@ footer{
     background-repeat:no-repeat;
     width:100vw;
     background-position:50% 50%;
-    display:block;}
+    display:block;
+    
+}
 
 .aboutmeheader{
     margin-top:100px;
@@ -74,7 +80,7 @@ footer{
     font-family: 'Sacramento',cursive;
 }
 .about-me-picture-container{
-    background-color: rgba(219, 246, 247,0.3);
+    background-color: rgba(202, 169, 125,0.3);
     border:none;
     padding-bottom: 50px;
     
@@ -95,4 +101,8 @@ footer{
     text-align: center;
     color:black;
     font-family: 'Sacramento',cursive;
+}
+
+.contact-form{
+    background-color: rgba(202, 169, 125,0.3);
 }
