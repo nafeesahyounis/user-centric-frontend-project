@@ -4,9 +4,7 @@
     width:100%;
 }  
 
-.navigation{
-    background-color:transparent;
-}
+
 
 .navbar-brand {
   width:150px;
@@ -34,7 +32,7 @@ footer{
 
 
 .menu{
-    font-family: 'Merienda', cursive;
+    font-family: 'Playfair Display SC', serif;
     font-size:18;
     font-weight:bold;
     color:#524252;
