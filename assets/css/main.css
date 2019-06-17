@@ -1,14 +1,16 @@
 /*------------ ALL PAGES ------------*/
 
-/*body{
-    background-color: rgba(242,234,222,0.3);*/
 
 body{
-    background: linear-gradient(110deg, #DEDAD5 60%, #221E18 60%);
+    background: linear-gradient(110deg, #F7F3EF 60%, #DEDAD5 60%); 
 }
 
 img {
     max-width:100%;
+}
+
+button{
+    text-align:center;
 }
 
 .navbar-brand {
@@ -27,8 +29,9 @@ img {
 }
 
 .navlinkcolor{
-    color:#F7F3EF;;
+    color:#F7F3EF;
 }
+
 
 
 footer{
@@ -46,8 +49,12 @@ footer{
 
 /*------------ LANDING PAGE ------------*/
 .viewportfolio{
-    color:white;
+    color:#F7F3EF;
     font-family: 'Sacramento',cursive;
+}
+
+.viewportfolio:hover{
+    color:gray;
 }
 
 
@@ -55,22 +62,27 @@ footer{
     margin-top:0.65px;
     margin-bottom:0px;
     text-align:center;
-    
+    color:#F7F3EF;
+    background-color: #b19f9e;
+    font-family: 'Roboto',sans-serif;
+    height:30vh;
+}
+
+.quotetext{
+    padding-top:10%;
 }
 
 
 .landingpageaboutme {
     font-family: 'Sacramento', cursive;
+    color:#F7F3EF;
+    background-color: #b19f9e;
     
 }
-/*---background: rgba(226, 201, 168,0.3) (242,234,222);-----*/
 
 .about-me-photo{
     
     text-align: center;
-    
-
-    
 }
 
 /*------------ ABOUTME PAGE ------------*/
@@ -79,12 +91,12 @@ footer{
     margin-top:70px;
     margin-bottom:0px;
     text-align: center;
-    color:#F7F3EF;
+    color:#b19f9e;
     font-family: 'Sacramento',cursive;
+    background-color:#DEDAD5;
     
 }
 
-/*----background-color: #acb7ae; background-color: #e4decd-----*/
 .aboutmecontainer {
     margin-bottom:10px;
 }
@@ -98,24 +110,32 @@ footer{
     margin-top:5%;
     text-align:center;
     font-family: 'Roboto',sans-serif;
-    color:#F7F3EF;
+    color:#b19f9e;
+    background-color: #DEDAD5;
 }
+
 /*------------ PORTFOLIO PAGE ------------*/
 
 .portfolioheader{
     margin-top:100px;
     text-align: center;
-    color:#F7F3EF;;
+    color:#b19f9e;
     font-family: 'Sacramento',cursive;
+    background-color:#DEDAD5;
+}
+
+.gallery{
+    margin-top:5%;
 }
 
 /*------------ CONTACT PAGE ------------*/
 .contactheader{
     margin-top:100px;
     text-align: center;
-    color:#F7F3EF;;
+    color:#b19f9e;
     font-family: 'Sacramento',cursive;
     margin-bottom:0px;
+    background-color:#DEDAD5;
 }
 
 .contactheaderimage {
@@ -128,16 +148,16 @@ footer{
 .secondcontactheader {
     text-align:center;
     font-family: 'Playfair Display SC', serif;
-    background-color: #DEDAD5;
     margin-bottom:0px;
     color:white;
+    background-color:#DEDAD5;
 }
 
 .contact-form{
     text-align:center;
     margin-bottom:10px;
     font-family: 'Playfair Display SC', serif;
-    color:#F7F3EF;
+    color:#b19f9e;
 }
 
 /*------------ animations from Animista ------------*/
