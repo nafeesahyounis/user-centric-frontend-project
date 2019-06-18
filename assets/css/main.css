@@ -122,6 +122,9 @@ footer{
     color:#b19f9e;
     font-family: 'Sacramento',cursive;
     background-color:#DEDAD5;
+    padding-left:10%;
+    padding-right:10%;
+    margin-bottom:0px;
 }
 
 .gallery{
@@ -151,6 +154,8 @@ footer{
     margin-bottom:0px;
     color:white;
     background-color:#DEDAD5;
+    padding-left: 10%;
+    padding-right:10%;
 }
 
 .contact-form{
