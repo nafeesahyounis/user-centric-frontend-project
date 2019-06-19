@@ -40,6 +40,24 @@ footer{
    color:white;
     
 }
+
+.fb-ic{
+    color:white;
+}
+.fb-ic:hover{
+    text-decoration: none;
+    transition-timing-function: ease-in-out;
+    color:#3b5998;
+}
+.ins-ic{
+    color:white;
+}
+.ins-ic:hover{
+    text-decoration: none;
+    transition-timing-function: ease-in-out;
+    color:#3f729b;
+}
+
 .footer-copywright{
     text-align:center;
 }
