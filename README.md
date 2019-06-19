@@ -58,4 +58,8 @@
 <p>- AOS Animate on Scroll Library was used for the scrolling animations.</p>
 <p>- Google Fonts was used to style text on the website.</p>
 <p>- jQuery was used for Bootstrap, FancyBox and AOS Animate on Scroll Library.</p>
+###Testing
+###Deployment
+<p>Cloud9 IDE was used to code this project. It was then committed and pushed to Github using the command line and deployed on GitHub pages from the repository.</p>
+<p>In order to deploy the site, firstly I logged into GitHub Pages. Following this I chose nafeesahyounis/user-centric-frontend-project and then clicked on ‘Settings’. I then scrolled down to ‘Github Pages’ and changed the ‘Source’ to ‘master branch’. From this, the page automatically refreshed and I scrolled up and found the link to the deployed website. </p>
 
