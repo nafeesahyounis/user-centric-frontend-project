@@ -63,3 +63,9 @@
 <p>Cloud9 IDE was used to code this project. It was then committed and pushed to Github using the command line and deployed on GitHub pages from the repository.</p>
 <p>In order to deploy the site, firstly I logged into GitHub Pages. Following this I chose nafeesahyounis/user-centric-frontend-project and then clicked on ‘Settings’. I then scrolled down to ‘Github Pages’ and changed the ‘Source’ to ‘master branch’. From this, the page automatically refreshed and I scrolled up and found the link to the deployed website. </p>
 
+<h1> Credits </h1>
+<h2>Content</h2>
+<p>The text for the website was created by Nafeesah Younis. </p>
+<h2>Media</h2>
+<p> All of the photos were obtained from Agnes Krupka's existing portfolio on her facebook and Instagram page. Some photos were also on her hard-drive from past shoots that she hasn't uploaded to a social media platform yet. </p>
+
