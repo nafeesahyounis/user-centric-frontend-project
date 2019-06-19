@@ -1,3 +1,6 @@
+#User Centric Frontend Project
+##Modelling Portfolio
+
 <p>This project is a website for a model, Agnes Krupka, based in Prague (Czech Republic). The website will act as both a visually stimulating resume of her work in the past, which centres around her existing portfolio of photographs, and a point of contact for clients to book her for future projects.</p>
 <p>It is essential that the overall design of the website complements her photos and provides a clean, modern and professional feel as this will emphasise her versatility and visual appeal as a model. The website will also serve the purpose of providing her with more exposure and clients will be impressed by the eye-catching visuals, so they will see her as an ideal fit to push their campaigns to the next level. The website features an ‘About Me’ page so that the client can get to know her a bit more and the experience will be more personalised. There is also a Contact/Questions page that will give the client the opportunity to get in touch and discuss potential projects. The primary goal of the website is to visually demonstrate Agnes’ talent to potential clients whilst simultaneously providing them with an easy point of contact so that they can book her and discuss further details with ease.</p>
 <p>The business goals of this website are:</p>
@@ -47,3 +50,12 @@
 <p><b>Features to Implement in the Future</b></p>
 <p>- A promotional video on the portfolio page of Agnes modelling. This will give the user a better visual experience. It will also help the client get a better image of Agnes’ modelling. </p>
 <p>- Option to choose the language of the website - Agnes’ first language is Czech, and she works in both Czech and English. It is therefore important that the website is eventually translated into Czech, however this is not possible at the moment because of time-restraints and financial restraints.</p>
+###Technologies Used
+<p>- HTML and CSS were used to code this project.</p>
+<p>- Bootstrap CDN was used to make the layout of the website cleaner and more responsive. Bootstrap CDN was also used to get icons from FontAwesome for the footer.</p>
+<p>- Fancy box was used for the gallery.</p>
+<p>- Animista was used for the animation on the carousel, as well as the animation on the images on the About Me page and the image on the Contact page.</p>
+<p>- AOS Animate on Scroll Library was used for the scrolling animations.</p>
+<p>- Google Fonts was used to style text on the website.</p>
+<p>- jQuery was used for Bootstrap, FancyBox and AOS Animate on Scroll Library.</p>
+

@@ -36,9 +36,13 @@ button{
 
 footer{
     background-color:#525252;
+   text-align:center;
+   color:white;
     
 }
-
+.footer-copywright{
+    text-align:center;
+}
 
 .menu{
     font-family: 'Playfair Display SC', serif;
