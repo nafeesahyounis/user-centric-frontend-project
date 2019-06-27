@@ -61,9 +61,48 @@
 <p> - Testing from the Homepage section was repeated on all three devices. </p>
 <p> - Code was checked to ensure that it is identical to the Home Page. </p>
 <p>2) Page Image </p>
+<p>- The image was checked on each device to ensure that it loaded correctly and that there was no overflow. Initially some overflow was experienced and so max-width was set to 100% in the css file to get rid of this problem on all images in the site. </p>
 <p>3) Page Content </p>
+<p> - Text was checked on all screen sizes to make sure that it is clear and visible. 
 <p>4) Animations </p>
+<p> - Animations were checked on all screen sizes to make sure that they transitioned smoothly. </p>
 <p>5) Call to Action Buttons </p>
+<p> - Both buttons were clicked and tested on all three devices both by myself and other individuals to make sure that they navigated smoothly to their given page. </p>
 <p>6) Footer </p>
 <p> - Testing from the Homepage section was repeated on all three devices. </p>
 <p> - Code was checked to ensure that it is identical to the Home Page. </p>
+<h3> Portfolio </h3>
+<p>1) Navigation Bar</p>
+<p> - Testing from the Homepage section was repeated on all three devices. </p>
+<p> - Code was checked to ensure that it is identical to the Home Page. </p>
+<p>2) Introductory Text </p>
+<p> - Testing for Page Content from 'About Me' page was repeated.</p>
+<p>3) Gallery </p>
+<p> - Each thumbnail image was clicked on the Portfolio page to ensure that it loaded correctly.</p>
+<p> - The layout of each thumbnail image was checked on multiple screen sizes to ensure that there was no overflow (see Page Image section under 'About Me' to see how overflow was fixed across all images). </p>
+<p> - Full screen view of all images was also checked on all devices to ensure there was no overflow and that the images appeared in high quality. </p>
+<p> - Fancybox navigation buttons to move backwards and forwards, and play and pause functions were checked. </p>
+<p>4) Animations </p>
+<p> - Testing of Animations/Transitions from 'About Me' and 'Home Page' was repeated on Portfolio Page.
+<p>5) Footer </p> 
+<p> <p> - Testing from the Homepage section was repeated on all three devices. </p>
+<p> - Code was checked to ensure that it is identical to the Home Page </p>
+<h3> Contact Form </h3>
+
+<p>1) Navigation Bar </p>
+<p> - Testing from the Homepage section was repeated on all three devices. </p>
+<p> - Code was checked to ensure that it is identical to the Home Page. </p>
+<p> 2) Page Image </p>
+<p> - Testing from Page Image on 'About Me' page was repeated here on all screen sizes. 
+<p> 3) Introductory Text </p>
+<p> - Testing for Page Content from 'About Me' page was repeated.</p>
+<p> 4) Contact Form </p>
+<p> - Form was checked to see if it would allow user to submit without all mandatory fields filled in. First, I left the 'First name' field empty, then the 'Surname' field empty and then the 'Email Address' field empty. Each time, an error message occurred upon submission. </p>
+<p> - Incorrect format for email address submitted, and as expected error message occurred. </p>
+<p> - The screen size was changed and form was viewed on all devices to ensure that it looks clear and smooth regardless of screen size. </p>
+<p> 5) Footer </p>
+<p> <p> - Testing from the Homepage section was repeated on all three devices. </p>
+<p> - Code was checked to ensure that it is identical to the Home Page </p>
+
+<h2> Additional Testing </h2>
+<p> Friends and fellow students were given the website and asked to check navigation and give impressions on intuitive ease of navigation and clean, professional look of design. All parties agreed that the design enhances the images, which was the primary goal, and that navigation was smooth across the site.</p>
