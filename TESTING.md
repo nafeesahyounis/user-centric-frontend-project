@@ -13,3 +13,26 @@
 <p>2)As a potential client, I have easy access to her bio and so I can determine whether or not her character and work ethic fits with our team.</p>
 <p> i) A call to action button is located on both the landing page and the navigation bar that will take the customer to the About Me page, so the customer can learn more about her with ease. </p>
 <p> ii) A short quote and a short, concise introduction about Agnes is also located on the landing page, so if the customer is in a rush they will be able to gauge something about her personality as well as see her pictures immediately on the landing page without needing to navigate to the rest of the site. </p>
+<p> 3)As a new visitor to the site, I can easily and intuitively navigate between the pages, so I don’t waste time searching for things.</p>
+<p> i) Call to Action buttons are located on The Home Page and About Me page. </p>
+<p> ii) The Navigation bar is in a clear font at the top and it toggles on a mobile view, so it is very intuitive to use. </p>
+<p> iii) According to convention, the logo links back to the Home Page. </p>
+<p> iv) The site has been tested by a few users and they have all remarked that it is very easy to move from one page to another. </p>
+<p> 4)As a potential client, I have immediate access to her existing body of work so I can determine how well she photographs and how versatile she is.</p>
+<p> i) There is easy and intuitive navigation that leads to Agnes' photos in the Portfolio via the HomePage. </p>
+<p> ii) There is at least one photograph on each page other than the Portfolio. </p>
+<p> iii) There is a carousel on the Home Page, which immediately gives the client a snippet from her Portfolio. </p>
+<p> 5)As a potential client, I am able to access her social media (instagram and facebook), so that I can do further research and keep up-to-date with her existing projects if I so wish.</p>
+<p> i) There is a footer on each page that navigates to both her Instagram and Facebook profiles. </p>
+<p> 6)As a potential client, I can see who she has already worked with, so that I get a better idea of her level of experience.</p>
+<p> i) There is some information of the Portfolio page for each picture that outlines who she has worked with. </p>
+<p> 7)As a potential client and a business, the overall layout of the website enables me to visualise how her photographs can be translated into a broader campaign, so I am able to gauge if I can use them in a professional capacity to fulfil my particular need.</p>
+<p> i) Muted, neutral colours were chosen for the site in order to make it look clean and to draw attention to the photos.</p>
+<p> ii) The design of the website was made based on careful analysis of existing portfolios of photographers including <a href="https://www.kaylafisherphotography.com/"> Kayla Fisher </a> and <a href="https://www.mareenfischinger.com/"> Mareen Fischinger </a> and the conventions they used to make their websites appealing to existing clients, as well as emphasise how their work can be translated into a broader body of photographs. </p>
+<p> iii) A limited number of elements were placed on each page during the design process to ensure that the focal point would be the photographs. </p>
+<p> iv) Photographs were displayed both as a collective (the carousel and the Portfolio gallery) and as individual shots (The About Me and the the Contact Page). The purpose of this was to show the client how the photographs could be translated into different contexts, and to demonstrate their versatility. </p>
+<p> 8)As a potential client and a business with time constraints, I can use the contact form quickly and intuitively in case I wish to get in touch with her and discuss anything further.</p>
+<p> i) It is easy to navigate to the Contact Form via the navigation bar. </p>
+<p> ii) There are only 3 required fields on the contact form, and so the User Experience is fast and does not require too much typing. </p>
+<p> iii) The form follows an intuitive and conventional layout (Name, Surname, email address and message). </p> 
+<h2>Manual (logical) testing of all elements and functionality on every page.</h2>
