@@ -1,14 +1,22 @@
-<h1>User Centric Frontend Project</h1>
-<h2>Modelling Portfolio for Agnes Krupka</h2>
+# User Centric Frontend Project
+## Modelling Portfolio for Agnes Krupka
 
-<p>This project is a website for a model, Agnes Krupka, based in Prague (Czech Republic). The website will act as both a visually stimulating resume of her work in the past, which centres around her existing portfolio of photographs, and a point of contact for clients to book her for future projects.</p>
-<p>It is essential that the overall design of the website complements her photos and provides a clean, modern and professional feel as this will emphasise her versatility and visual appeal as a model. The website will also serve the purpose of providing her with more exposure and clients will be impressed by the eye-catching visuals, so they will see her as an ideal fit to push their campaigns to the next level. The website features an ‘About Me’ page so that the client can get to know her a bit more and the experience will be more personalised. There is also a Contact/Questions page that will give the client the opportunity to get in touch and discuss potential projects. The primary goal of the website is to visually demonstrate Agnes’ talent to potential clients whilst simultaneously providing them with an easy point of contact so that they can book her and discuss further details with ease.</p>
-<p>The business goals of this website are:</p>
-<p>-To build a brand and define her particular style of modelling.</p>
-<p>-To provide high quality examples of her photoshoots and demonstrate her versatility as a model.</p>
-<p>-Build rapport with potential clients via the contact page. This, in turn, will increase her network and provide her with more bookings.</p>
-<p>-Beautiful, clean and professional looking UI so that the client can immediately visualise how her photos can both enhance and complement their campaign. </p>
-<p>The customer goals of this website are:</p>
+This project is a website for a model, Agnes Krupka, based in Prague (Czech Republic). The website will act as both a visually stimulating resume of her work in the past, which centres around her existing portfolio of photographs, and a point of contact for clients to book her for future projects.
+
+It is essential that the overall design of the website complements her photos and provides a clean, modern and professional feel as this will emphasise her versatility and visual appeal as a model. The website will also serve the purpose of providing her with more exposure and clients will be impressed by the eye-catching visuals, so they will see her as an ideal fit to push their campaigns to the next level. The website features an ‘About Me’ page so that the client can get to know her a bit more and the experience will be more personalised. There is also a Contact/Questions page that will give the client the opportunity to get in touch and discuss potential projects. The primary goal of the website is to visually demonstrate Agnes’ talent to potential clients whilst simultaneously providing them with an easy point of contact so that they can book her and discuss further details with ease.
+
+The business goals of this website are:
+
+* To build a brand and define her particular style of modelling.
+
+* To provide high quality examples of her photoshoots and demonstrate her versatility as a model.
+
+* Build rapport with potential clients via the contact page. This, in turn, will increase her network and provide her with more bookings.
+
+* Beautiful, clean and professional looking UI so that the client can immediately visualise how her photos can both enhance and complement their campaign. 
+
+The customer goals of this website are:
+
 <p>-Searching for the ideal model for their campaign/photoshoot/show.<p>
 <p>-Easy and intuitive means of establishing contact and discussing details for future project. Exact pricing is not provided as it will depend on the nature of the work and it will be necessary to discuss this with the client in further detail.</p>
 <p>-Easy access to the model’s previous work so that they can quickly and seamlessly gauge whether or not she is the correct fit.</p>
@@ -23,7 +31,7 @@
 <p>7)As a potential client and a business, the overall layout of the website enables me to visualise how her photographs can be translated into a broader campaign, so I am able to gauge if I can use them in a professional capacity to fulfil my particular need. </p>
 <p>8)As a potential client and a business with time constraints, I can use the contact form quickly and intuitively in case I wish to get in touch with her and discuss anything further. </p>
 <h2><b> Wireframes</b></h2>
-<p><a href="images/Landing Pagefinal.png"> Home </a></p>
+<p><a href= "https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/blob/master/assets/images/landingpagewireframe.png "Home Page Wireframe""> Home </a></p>
 <h2><b>Features</b></h2>
 <p>The website has four pages (Home, About Me, Portfolio and Contact). Each page has a responsive navigation bar, a logo in the top left-hand corner and a footer that has both the copyright information and two social media icons - one for the facebook page of the model and one for her instagram. </p>
 <p>The goal of the website is to maximise the amount of exposure of the user to the model’s photographs, so both the Contact and About Me page contain a focal image of her, while the Gallery and the Home Page contain many images and it is easy for the user to move through them.</p>
@@ -51,7 +59,7 @@
 <p><b>Features to Implement in the Future</b></p>
 <p>- A promotional video on the portfolio page of Agnes modelling. This will give the user a better visual experience. It will also help the client get a better image of Agnes’ modelling. </p>
 <p>- Option to choose the language of the website - Agnes’ first language is Czech, and she works in both Czech and English. It is therefore important that the website is eventually translated into Czech, however this is not possible at the moment because of time-restraints and financial restraints.</p>
-<h2>Technologies Used</h2>
+## Technologies Used
 <p>- HTML and CSS were used to code this project.</p>
 <p>- Bootstrap CDN was used to make the layout of the website cleaner and more responsive. Bootstrap CDN was also used to get icons from FontAwesome for the footer.</p>
 <p>- Fancy box was used for the gallery.</p>
