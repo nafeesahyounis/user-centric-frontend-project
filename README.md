@@ -31,7 +31,7 @@ The customer goals of this website are:
 <p>7)As a potential client and a business, the overall layout of the website enables me to visualise how her photographs can be translated into a broader campaign, so I am able to gauge if I can use them in a professional capacity to fulfil my particular need. </p>
 <p>8)As a potential client and a business with time constraints, I can use the contact form quickly and intuitively in case I wish to get in touch with her and discuss anything further. </p>
 <h2><b> Wireframes</b></h2>
-<p><a href= "https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/blob/master/assets/images/landingpagewireframe.png "Home Page Wireframe""> Home </a></p>
+<p><a href= "https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/master/assets/images/landingpagewireframe.png"> Home </a></p>
 <h2><b>Features</b></h2>
 <p>The website has four pages (Home, About Me, Portfolio and Contact). Each page has a responsive navigation bar, a logo in the top left-hand corner and a footer that has both the copyright information and two social media icons - one for the facebook page of the model and one for her instagram. </p>
 <p>The goal of the website is to maximise the amount of exposure of the user to the model’s photographs, so both the Contact and About Me page contain a focal image of her, while the Gallery and the Home Page contain many images and it is easy for the user to move through them.</p>
