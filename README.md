@@ -21,7 +21,7 @@ The customer goals of this website are:
 
 * Easy and intuitive means of establishing contact and discussing details for future project. Exact pricing is not provided as it will depend on the nature of the work and it will be necessary to discuss this with the client in further detail.
 
-* -Easy access to the model’s previous work so that they can quickly and seamlessly gauge whether or not she is the correct fit.
+* Easy access to the model’s previous work so that they can quickly and seamlessly gauge whether or not she is the correct fit.
 
 ## User Stories
 
@@ -38,9 +38,15 @@ This website is aimed at professional businesses or photographers currently sear
 
 ## Wireframes
 
-<a href= "https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/master/assets/images/landingpagewireframe.png"> Home </a>
+Follow the links below to see the wireframes for the website. The images in each wireframe view are organised in the order of Mobile View, Tablet View and then Desktop View from left to right.
 
-<a href= "https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/master/assets/images/aboutwireframe.png"> About </a>
+[Home](https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/master/assets/images/landingpagewireframe.png) 
+
+[About](https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/master/assets/images/aboutwireframe.png)
+
+[Portfolio](https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/master/assets/images/portfoliowireframe.png)
+
+[Contact](https://raw.githubusercontent.com/nafeesahyounis/user-centric-frontend-project/master/assets/images/contactwireframe.png)
 
 ## Features
 
@@ -91,16 +97,16 @@ The contact page contains a main image and a contact form. The image fades in wh
 ## Technologies Used
 
 * HTML and CSS were used to code this project.
-* <a href="https://www.bootstrapcdn.com/> Bootstrap CDN</a> was used to make the layout of the website cleaner and more responsive. Bootstrap CDN was also used to get icons from FontAwesome for the footer.
-* Fancy box was used for the gallery.
-* Animista was used for the animation on the carousel, as well as the animation on the images on the About Me page and the image on the Contact page.
-* AOS Animate on Scroll Library was used for the scrolling animations.
-* Google Fonts was used to style text on the website.
+* [Bootstrap CDN](https://www.bootstrapcdn.com/) was used to make the layout of the website cleaner and more responsive. Bootstrap CDN was also used to get icons from FontAwesome for the footer.
+* [Fancy box](http://fancyapps.com/fancybox/3/) was used for the gallery.
+* [Animista](http://animista.net/) was used for the animation on the carousel, as well as the animation on the images on the About Me page and the image on the Contact page.
+* [AOS Animate on Scroll Library](https://github.com/michalsnik/aos) was used for the scrolling animations.
+* [Google Fonts](https://fonts.google.com/) was used to style text on the website.
 * jQuery was used for Bootstrap, FancyBox and AOS Animate on Scroll Library.
 
 ## Testing
 
-Detailed information regarding the testing of the website is located in the following file <a href="https://github.com/nafeesahyounis/user-centric-frontend-project/blob/master/TESTING.md"> TESTING.md </a>.
+Detailed information regarding the testing of the website is located in the following file [TESTING.md](https://github.com/nafeesahyounis/user-centric-frontend-project/blob/master/TESTING.md).
 
 ## Deployment
 
