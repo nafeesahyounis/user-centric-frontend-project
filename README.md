@@ -1,6 +1,8 @@
 # User Centric Frontend Project
 ## Modelling Portfolio for Agnes Krupka
 
+[GitHub Pages Website](https://nafeesahyounis.github.io/user-centric-frontend-project/)
+
 This project is a website for a model, Agnes Krupka, based in Prague (Czech Republic). The website will act as both a visually stimulating resume of her work in the past, which centres around her existing portfolio of photographs, and a point of contact for clients to book her for future projects.
 
 It is essential that the overall design of the website complements her photos and provides a clean, modern and professional feel as this will emphasise her versatility and visual appeal as a model. The website will also serve the purpose of providing her with more exposure and clients will be impressed by the eye-catching visuals, so they will see her as an ideal fit to push their campaigns to the next level. The website features an ‘About Me’ page so that the client can get to know her a bit more and the experience will be more personalised. There is also a Contact/Questions page that will give the client the opportunity to get in touch and discuss potential projects. The primary goal of the website is to visually demonstrate Agnes’ talent to potential clients whilst simultaneously providing them with an easy point of contact so that they can book her and discuss further details with ease.
@@ -110,9 +112,27 @@ Detailed information regarding the testing of the website is located in the foll
 
 ## Deployment
 
+[GitHub Pages Website](https://nafeesahyounis.github.io/user-centric-frontend-project/)
+
 Cloud9 IDE was used to code this project. It was then committed and pushed to Github using the command line and deployed on GitHub pages from the repository.
 
 In order to deploy the site, firstly I logged into GitHub Pages. Following this I chose nafeesahyounis/user-centric-frontend-project and then clicked on ‘Settings’. I then scrolled down to ‘Github Pages’ and changed the ‘Source’ to ‘master branch’. From this, the page automatically refreshed and I scrolled up and found the link to the deployed website. 
+
+### Running the project locally
+
+In order to clone this project, it is necessary to follow these steps:
+
+1. Go to the [Project Repository](https://github.com/nafeesahyounis/user-centric-frontend-project).
+2. Click 'Clone or Download'.
+3. In the Clone with HTTPs section, click he clone URL for the repository.
+4. Open the Terminal and change the working directory to the location where you want the cloned directory to be made.
+5. Type git clone, and then paste the URL you copied in Step 2.
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+6. Press Enter.
+
+These instructions were taken from the following link: [Cloning a Repository](https://help.github.com/en/articles/cloning-a-repository).
 
 ## Credits 
 ### Content
